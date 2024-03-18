@@ -18,7 +18,7 @@
 
 ###
 
-<img align="right" height="200" src="https://c.tenor.com/QOyqNGZDHBgAAAAd/tenor.gif"  />
+<img align="right" height="150" src="https://c.tenor.com/QOyqNGZDHBgAAAAd/tenor.gif"  />
 
 ###
 
@@ -38,9 +38,6 @@
 </div>
 
 ###
-
-
-
 
 
 
