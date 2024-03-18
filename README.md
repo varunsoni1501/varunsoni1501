@@ -1,4 +1,12 @@
 <h2 align="left">Hi ! My name is Varun and I'm a Engineering Student from Bhopal</h2>
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=varunsoni1501&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=varunsoni1501&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 
 ###
 
